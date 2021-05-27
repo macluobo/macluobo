@@ -23,7 +23,7 @@ If you want to develop your own software, and you can't find software developers
 <p align="left">
 &nbsp; <a href="https://github.com/macluobo" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/64/github.png" width="50" /></a>
 &nbsp; <a href="mailto:zhoujfsoft@163.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/64/000000/shared-mailbox.png" width="50" /></a> 
-&nbsp; <a href="weichatnum:dpnk007" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/48/000000/weixing.png" width="50" /></a> 
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/48/000000/weixing.png" width="50" /></a> 
 </p>
 
 ⭐️ From [Johnson Zhou](https://github.com/macluobo)
