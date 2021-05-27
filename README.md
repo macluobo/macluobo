@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 I'm Johnson Zhou. I am a software developer from Shanghai, China. Responsible for a variety of application background system development, involving telecom value-added services, e-commerce, Internet of things and other fields, modest and pragmatic, like to make friends, have a constant learning attitude to technology.
-<br>
+
 If you want to develop your own software, and you can't find software developers, you might as well try to contact me. I'm honored to serve you.
 
 <h3>🛠 Tech Stack</h3>
