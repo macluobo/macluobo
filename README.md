@@ -1,5 +1,5 @@
 <h2> Hey there! <img src="https://github.com/macluobo/macluobo/blob/main/hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/macluobo/macluobo/blob/main/work.gif?raw=true" width="550"/>
+<img align="right" alt="GIF" src="https://github.com/macluobo/macluobo/blob/main/work.gif?raw=true" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 I'm Johnson Zhou. I am a software developer from Shanghai, China. Responsible for a variety of application background system development, involving telecom value-added services, e-commerce, Internet of things and other fields, modest and pragmatic, like to make friends, have a constant learning attitude to technology.
